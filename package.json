@@ -1,8 +1,8 @@
 {
-  "name": "vue-webpack-calculator",
+  "name": "vue-calculator",
   "description": "A simply vue-calculator ",
   "version": "1.0.0",
-  "author": "CaiYiLiang",
+  "author": "web-afei",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --inline --hot",
